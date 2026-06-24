@@ -63,7 +63,5 @@ python app.py
 
 
 ## Author
-**Muhammad Zeeshan** 
-AI Engineer  
-[Portfolio](https://zeeshan-portfolio-amber.vercel.app) · 
-[LinkedIn](https://linkedin.com/in/zeeshanofficial)
+**Muhammad Zeeshan** AI Engineer [Portfolio](https://zeeshan-portfolio-amber.vercel.app) · 
+**Ali Raza** AI Researcher/Engineer [Portfolio]((https://alir99008.github.io/)
